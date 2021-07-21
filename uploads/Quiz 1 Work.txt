@@ -1,0 +1,166 @@
+VKEHFSBARJMWTYNZQOGDIPXLCU
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+hsjwdbognkcatrvmuiyfxzelpq
+
+itsthedarkesthourofthedarkestnightitsamillionmilesfromthemorninglightcantgetno
+sleepdontknowwhattodoivegotthosemidnightblueswhentheshadowsfallifeelthenight
+closingintheremustbesomereasonforthismoodimgettingincantgetnosleepdontknowwhattodo
+ivegotthosemidnightblueseveryeveningaftersundownasthelightbeginstofadeifeelso
+lowbutijustdontknowwhytheseblueswontgoawayeveryeveningaftersundownasthelightbegins
+tofadeifeelsolowbutijustdontknowwhytheseblueswontgoawayitsthedarkesthourof
+thedarkestnightitsamillionmilestothemorninglightcantgetnosleepdontknowwhat
+todoivegotthosemidnightbluesivegotthosemidnightbluesivegotthosemidnightblues
+ivegotthosemidnightblues
+
+ITS THE DARKEST HOUR OF THE DARKEST NIGHT ITS A MILLION MILES FROM THE MORNING LIGHT
+CANT GET NO SLEEP DONT KNOW WHAT TO DO IVE GOT THOSE MIDNIGHT BLUES WHEN THE SHADOWS
+FALL I FEEL THE NIGHT CLOSING IN THERE MUST BE SOME REASON FOR THIS MOOD IM GETTING IN 
+CANT GET NO SLEEP DONT KNOW WHAT TO DO IVE GOT THOSE MIDNIGHT BLUES EVERY EVENING 
+AFTER SUNDOWN AS THE LIGHT BEGINS TO FADE I FEEL SO LOW BUT I JUST DONT KNOW WHY THESE 
+BLUES WONT GO AWAY EVERY EVENING AFTER SUNDOWN AS THE LIGHT BEGINS TO FADE I FEEL SO LOW 
+BUT I JUST DONT KNOW WHY THESE BLUES WONT GO AWAY ITS THE DARKEST HOUR OF THE DARKEST
+NIGHT ITS A MILLION MILES TO THE MORNING LIGHT CANT GET NO SLEEP DONT KNOW WHAT TO DO
+IVE GOT THOSE MIDNIGHT BLUES IVE GOT THOSE MIDNIGHT BLUES IVE GOT THOSE MIDNIGHT 
+BLUES IVE GOT THOSE MIDNIGHT BLUES
+
+YSCSBHXAREHCSBPLRPKSBHXAREHCSOYNBSYSCADYVVYPODYVHCKRPDSBHDPROYONVYNBSJAOSNHSOPCVHHTXPOSE
+OPFFBASSPXPYUHNPSSBPCHDYXOYNBSGVLHCFBHOSBHCBAXPFCKAVVYKHHVSBHOYNBSJVPCYONYOSBHRHDLCSGHCPDHRHACPOKPRSBYCDPPXYDNHSSYONYOJAOSNHSOPCVHHTXPOSEOPFFBASSPXPYUHNPSSBPCHDYXOYNBSGVLHCHUHRZHUHOYONAKSHRCLOXPFOACSBHVYNBSGHNYOCSPKAXHYKHHVCPVPFGLSYMLCSXPOSEOPFFBZSBHCHGVLHCFPOSNPAFAZHUHRZHUHOYONAKSHRCLOXPFOACSBHVYNBSGHNYOCSPKAXHYKHHVCPVPFGLSYMLCSXPOSEOPFFBZSBHCHGVLHCFPOSNPAFAZYSCSBHXAREHCSBPLRPKSBHXAREHCSOYNBSYSCADYVVYPODYVHCSPSBHDPROYONVYNBSJAOSNHSOPCVHHTXPOSEOPFFBASSPXPYUHNPSSBPCHDYXOYNBSGVLHCYUHNPSSBPCHDYXOYNBSGVLHCYUHNPSSBPCHDYXOYNBSGVLHCYUHNPSSBPCHDYXOYNBSGVLHC
+
+
+#9
+
+r o  y a l
+n e  w z d
+v b  c f g
+h ij k m p
+q s  t u x
+
+KXJE YURE BEZW EHEW RYTU HEYF
+SKRE HEGO YFIW TTTU OLKS YCAJ
+POBO TEIZ ONTX BYBN TGON EYCU
+ZWRG DSON SXBO UYWR HEBA AHYU
+SEDQ
+
+Ciphertext/Plaintext:
+KXJE YURE BEZW EHEW RYTU HEYF
+ptbo aton eowe nine lost inac
+
+SKRE HEGO YFIW TTTU OLKS YCAJ
+tion inbl acke ttst rait twom
+
+POBO TEIZ ONTX BYBN TGON EYCU
+iles swme resu cove xcre woft
+
+ZWRG DSON SXBO UYWR HEBA AHYU
+welv exre ques tany info rmat
+
+SEDQ
+ionx
+
+pt boat one owe nine lost in action in blackett strait 
+two miles sw mere su cove x crew of twelve x request any information
+
+
+#10
+Plaintext:
+securitypasscardsareoftenusedtogainentryintoareasandbuildingswithrestrictedaccessfindoutwhatdataiskeptonanencodedsecuritypasscardandhowtheywork
+
+Encryption:
+s r p c s o n d a n i a s b d s h t t c s d w d i p a c d u y s d h h o
+ e i a a a f u t i t n r a u i w r r e c f o h a s t n o s r p c a o e r
+  c t s r r t s o n r t e n i n i e i d e i u a t k o e d e i a a n w y k
+   u y s d e e e g e y o a d l g t s c a s n t t a e n n e c t s r d t w
+
+Ciphertext: 
+srpcsondaniasbdshttcsdwdipacduysdhhoeiaaafutitnrauiwrrecfohastnosrpcaoerctsrrtsonrteninieideiuatkoedeiaanwykuysdeeegeyoadlgtscasnttaennectsrdtw
+
+Decryption:
+|row| = 4
+|cipher| = 143
+143/4 = 35 letters per row, 143 mod 4 = 3 leftover letters(but only add 1 bc it'll throw off the row???)
+=>  1st row: 35 + 1  = 36 letters
+
+143-36=107 -> 107/3 = 35, 107 mod 3 = 2 (but only add 1)
+=>  2nd row: 35 + 1 = 36
+107-36=71 -> 71/2 = 35, 71 mod 2 = 1
+=> 3rd row: 35 + 1 = 36
+    4th row: 35
+
+s r p c s o n d a n i a s b d s h t t c s d w d i p a c d u y s d h h o
+ e i a a a f u t i t n r a u i w r r e c f o h a s t n o s r p c a o e r
+  c t s r r t s o n r t e n i n i e i d e i u a t k o e d e i a a n w y k
+   u y s d e e e g e y o a d l g t s c a s n t t a e n n e c t s r d t w
+
+
+#11
+Encryption:
+Key         5 4 3 1 2
+Plaintext   s e c u r
+            i t y p a
+            s s c a r
+            d s a r e
+            o f t e n
+            u s e d t
+            o g a i n
+            e n t r y
+            i n t o a
+            r e a s a
+            n d b u i
+            l d i n g
+            s w i t h
+            r e s t r
+            i c t e d
+            a c c e s
+            s f i n d
+            o u t w h
+            a t d a t
+            a i s k e
+            p t o n a
+            n e n c o
+            d e d s e
+            c u r i t
+            y p a s s
+            c a r d a
+            n d h o w
+            t h e y w
+            o r k x y
+
+Ciphertext: rarentnyaaighrdsdhteaoetsawwy
+            uparedirosuntteenwakncsisdoyx
+            cycateattabiistcitdsondrarhek
+            sisdouoeirnlsriasoaapndcycnto
+            etssfsgnneddweccfutiteeupadhr
+
+Decryption:
+|cipher| = 145, |key| = 5 => row = 29
+Key         5 4 3 1 2
+Ciphertext  s e c u r
+            i t y p a
+            s s c a r
+            d s a r e
+            o f t e n
+            u s e d t
+            o g a i n
+            e n t r y
+            i n t o a
+            r e a s a
+            n d b u i
+            l d i n g
+            s w i t h
+            r e s t r
+            i c t e d
+            a c c e s
+            s f i n d
+            o u t w h
+            a t d a t
+            a i s k e
+            p t o n a
+            n e n c o
+            d e d s e
+            c u r i t
+            y p a s s
+            c a r d a
+            n d h o w
+            t h e y w
+            o r k x y
+         
