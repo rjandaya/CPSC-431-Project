@@ -9,8 +9,6 @@ mini drive is a private cloud storage application which allows users to easily a
 ## How to Use the Application
 1. Log in with one of the premade logins
     * Username: user | Password: password
-    * Username: | Password:
-
 
 ## Use Cases
 1. File Upload
